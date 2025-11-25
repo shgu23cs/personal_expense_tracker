@@ -1,0 +1,38 @@
+[
+    {
+        "category": "Housing",
+        "description": "",
+        "value": 0.0,
+        "date": "2025-11-25"
+    },
+    {
+        "category": "Food",
+        "description": "",
+        "value": 5000.0,
+        "date": "2025-11-25"
+    },
+    {
+        "category": "Medical",
+        "description": "",
+        "value": 2500.0,
+        "date": "2025-11-25"
+    },
+    {
+        "category": "Subscriptions",
+        "description": "",
+        "value": 2500.0700000000015,
+        "date": "2025-11-25"
+    },
+    {
+        "category": "Transportation",
+        "description": "",
+        "value": 500.0,
+        "date": "2025-11-25"
+    },
+    {
+        "category": "Miscellaneous",
+        "description": "",
+        "value": 4000.0,
+        "date": "2025-11-25"
+    }
+]
