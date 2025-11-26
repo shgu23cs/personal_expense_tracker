@@ -3,16 +3,7 @@ pandas==2.1.1
 numpy==1.26.2
 altair==5.1.2
 pillow==9.5.0
-bcrypt==4.0.1
-click==8.1.7
+rich==14.2.0
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
-rich==14.2.0
-blinker==1.6.3
-cachetools==5.3.1
-certifi==2023.7.22
-charset-normalizer==3.3.0
-colorama==0.4.6
-contourpy==1.1.1
-attrs==23.1.0
